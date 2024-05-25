@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/blog-news/static/css/main.34892669.css",
+    "main.js": "/blog-news/static/js/main.d22dc4b6.js",
+    "static/js/453.0e6fa9fe.chunk.js": "/blog-news/static/js/453.0e6fa9fe.chunk.js",
+    "static/media/nuvem.jpg": "/blog-news/static/media/nuvem.9c84a2eb39512375b542.jpg",
+    "static/media/logoVWA.png": "/blog-news/static/media/logoVWA.c54434b5ff52d41ee3f4.png",
+    "index.html": "/blog-news/index.html",
+    "main.34892669.css.map": "/blog-news/static/css/main.34892669.css.map",
+    "main.d22dc4b6.js.map": "/blog-news/static/js/main.d22dc4b6.js.map",
+    "453.0e6fa9fe.chunk.js.map": "/blog-news/static/js/453.0e6fa9fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34892669.css",
+    "static/js/main.d22dc4b6.js"
+  ]
+}
