@@ -1,0 +1,16 @@
+.footer-developed {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    justify-content: center;
+}
+
+.footer-developed span {
+    margin-right: 10px;
+    font-size: 14px;
+}
+
+.footer-developed img {
+    width: 100px;
+    height: auto;
+}
